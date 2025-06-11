@@ -1,5 +1,6 @@
 # Pari3D
-A Gnuplot wrapper for GP/PARI
+Gnuplot 3D plots from GP/PARI
+A wrapper to plot surface (x,y,z) functions with the power of the GP calculator.
 
 ## Usage
 ### Loading the wrapper from Pari
@@ -16,7 +17,7 @@ Where x0/y0 is the start integer, x1/y0 the final one, and x2/y2 a decimal numbe
 ```
 sxyz(x, y, f)
 ```
-Where x and y vectors are generated from dyx function above, and f a generic "f(x,y)" pari math function of yor choice*
+Where x and y vectors are generated from dyx function above, and f a generic "f(x,y)" pari math function of your choice
 
 ### Ploting with gnuplot
 ```
