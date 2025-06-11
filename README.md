@@ -4,7 +4,7 @@ A Gnuplot wrapper for GP/PARI
 ## Usage
 ### Loading the wrapper from Pari
 ```
-read("~/Downloads/pari3D.gp")
+read("~/Downloads/Pari3D/pari3D.gp")
 ```
 ### Creating X and Y vectors
 ```
