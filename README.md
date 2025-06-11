@@ -31,7 +31,7 @@ f(x,y) = sin((x^2 + y^2)/12)
 sxyz(x, y, f)
 splot()
 ```
-## Example 1
+## Example 2
 ### Real part of Riemann Zeta function
 ```
 dxy(1,80,.25,-1,1,.125)
