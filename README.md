@@ -24,7 +24,7 @@ Where x and y vectors are generated from dyx function above, and f a generic "f(
 splot()
 ```
 ## Example 1
-### Simple Riple function
+### Simple Ripple function
 ```
 dxy(-10,10,.125,-10,10,.125)
 f(x,y) = sin((x^2 + y^2)/12)
