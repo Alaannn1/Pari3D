@@ -31,6 +31,8 @@ f(x,y) = sin((x^2 + y^2)/12)
 sxyz(x, y, f)
 splot()
 ```
+![sample1](https://github.com/user-attachments/assets/6e95b9bf-94d8-4037-967f-f8b67e7328ba)
+
 ## Example 2
 ### Real part of Riemann Zeta function
 ```
@@ -39,3 +41,5 @@ f(x,y) = real(zeta(y+I*x))
 sxyz(x, y, f)
 splot()
 ```
+![sample2](https://github.com/user-attachments/assets/3f245381-6b86-4216-88a0-485009d20d8f)
+
