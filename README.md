@@ -1,6 +1,6 @@
 # Pari3D
-Gnuplot 3D plots from GP/PARI
-A wrapper to plot surface (x,y,z) functions with the power of the GP calculator.
+Gnuplot 3D plots from GP/PARI, 
+> A wrapper to plot surface (x,y,z) functions with the power of the GP calculator.
 
 ## Usage
 ### Loading the wrapper from Pari
